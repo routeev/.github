@@ -60,6 +60,6 @@ Somos tres cofundadores de Montevideo:
 
 ## Contacto
 
-📧 [routemindtbo@gmail.com](mailto:routemindtbo@gmail.com) · 🌐 [routeev.uy](https://routeev.uy)
+📧 [contacto@routeev.uy](mailto:contacto@routeev.uy) · 🌐 [routeev.uy](https://routeev.uy)
 
 <sub>Datos viales © colaboradores de OpenStreetMap (ODbL).</sub>
